@@ -5,7 +5,7 @@ class Program
 {
     static void Main(string[] args)
     {
-        
+        // Ask the user for their score.
         Console.WriteLine("Hello Prep2 World!");
         Console.Write("What is your test scre? ");
         string score1 = Console.ReadLine();
