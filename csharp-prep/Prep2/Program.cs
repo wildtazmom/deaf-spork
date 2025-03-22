@@ -33,18 +33,6 @@ class Program
     {
          score1 = "F";
     }
-    Console.WriteLine($"The grade is {score1}, and if you get a F, please see the instructor.");
-
-
-
-
-
-       
-
-        
-        
-        
-        
-
+         Console.WriteLine($"The grade is {score1}, and if you get a F, please see the instructor.");
     }
 }
