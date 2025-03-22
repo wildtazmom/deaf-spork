@@ -3,11 +3,11 @@ using System;
 {
 Console.WriteLine("Hello Prep3 World!");
 Console.WriteLine("You will be playing a game called Guess the Number.");
-Console.WriteLine("What is the magic number? ");
+
 Random randomGenerator = new Random();
 int magicNumber = randomGenerator.Next(1, 101);
 int secretNumber = -1;
-
+//Needs fixing again
 while (secretNumber != magicNumber)
 {
    {
